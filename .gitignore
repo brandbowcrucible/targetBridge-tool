@@ -1,0 +1,18 @@
+.DS_Store
+
+# Local build outputs
+.build/
+DerivedData/
+build/
+
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+
+# macOS app bundles produced locally
+*.app
+*.zip
+
+# C build outputs
+*.o
+tbreceiver
